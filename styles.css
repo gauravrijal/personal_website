@@ -1,0 +1,43 @@
+body{
+    background-color: #EEEEEE;
+}
+
+.dark_green{
+    background-color: #abb8a5;
+}
+
+.light_green{
+    background-color: #ECF4E8;
+}
+
+.font_serif{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font_roboto{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.font_white{
+    color: #191e16;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.gradient_card{
+    background: linear-gradient(45deg, #ECF4E8, #abb8a5);
+    height: 30em;
+    width: 30em;
+    margin-right: 3rem;
+    background-size: contain;
+    border-radius: 20%;
+}
+
+.logos{
+  width: 15vw;
+  max-width: 80px;
+  min-width: 60px;
+  height: auto;
+  margin: 6px;
+}
